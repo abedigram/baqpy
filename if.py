@@ -27,3 +27,23 @@ else:
 
 #loop
 
+i=1
+
+while i<=5:
+    print('*' * i)
+    i+=1
+else:
+    print("done")
+
+for item in "Python":
+    print(item)
+
+for item in ['mosh', 'john', 'sarah']:
+    print(item)
+
+for item in range(5,20,2):
+    print(item)
+
+for x in range(5):
+    for y in range(3):
+        print(f"({x}, {y})")
