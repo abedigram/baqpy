@@ -46,6 +46,3 @@ listt = list.copy()
 #listt = list -----points
 print(listt)
 
-
-tuple = (1,2,3) #could not be modified
-print(tuple[0])
